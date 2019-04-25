@@ -1,0 +1,10 @@
+C:\Users\yassi\Desktop\school\Strandbal\Strandbal\bin\Debug\Strandbal.exe.config
+C:\Users\yassi\Desktop\school\Strandbal\Strandbal\bin\Debug\Strandbal.exe
+C:\Users\yassi\Desktop\school\Strandbal\Strandbal\bin\Debug\Strandbal.pdb
+C:\Users\yassi\Desktop\school\Strandbal\Strandbal\obj\Debug\Strandbal.csprojAssemblyReference.cache
+C:\Users\yassi\Desktop\school\Strandbal\Strandbal\obj\Debug\Strandbal.Form1.resources
+C:\Users\yassi\Desktop\school\Strandbal\Strandbal\obj\Debug\Strandbal.Properties.Resources.resources
+C:\Users\yassi\Desktop\school\Strandbal\Strandbal\obj\Debug\Strandbal.csproj.GenerateResource.cache
+C:\Users\yassi\Desktop\school\Strandbal\Strandbal\obj\Debug\Strandbal.csproj.CoreCompileInputs.cache
+C:\Users\yassi\Desktop\school\Strandbal\Strandbal\obj\Debug\Strandbal.exe
+C:\Users\yassi\Desktop\school\Strandbal\Strandbal\obj\Debug\Strandbal.pdb
